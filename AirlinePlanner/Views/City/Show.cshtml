@@ -1,0 +1,12 @@
+Your city details:
+
+<li>ID: @Model["city"].GetId()</li>
+<li>City Name: @Model["city"].GetName()</li>
+
+<p>Flights Associated with this City:</p>
+
+@foreach(var flight in Model["flights"])
+{
+    <li>@flight.GetDepartureTime()</li>
+}
+

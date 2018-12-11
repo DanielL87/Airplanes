@@ -1,0 +1,30 @@
+<p>Your flight details:</p>
+
+<br>
+
+<li>ID: @Model["flight"].GetId()</li>
+<li>Departure Time: @Model["flight"].GetDepartureTime()</li>
+<li>Departure City: @Model["flight"].GetDepartureCity()</li>
+<li>Arrival City: @Model["flight"].GetArrivalCity()</li>
+
+<br>
+
+<p>Cities associated with this flight:</p>
+
+@foreach(var city in Model["cities"])
+{
+    <li>@city.GetName()</li>
+}
+
+<p>Add an additional city to this flight:</p>
+
+
+<form action="/flights/@Model["flight"].GetId()" method="post">
+    <select name="cityId" >
+            @foreach(var city in @Model["allCities"])
+            {
+                <option class="dropdown-item"value=@city.GetId()>@city.GetName()</option>
+            }
+    </select>
+     <button class="btn btn-primary btn-lg" type="submit">Add</button>
+</form>

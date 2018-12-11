@@ -1,0 +1,13 @@
+/Users/Guest/Downloads/csharp-project-builder-master/AirlinePlanner.Solution/AirlinePlanner.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Downloads/csharp-project-builder-master/AirlinePlanner.Solution/AirlinePlanner.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Downloads/csharp-project-builder-master/AirlinePlanner.Solution/AirlinePlanner.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Downloads/csharp-project-builder-master/AirlinePlanner.Solution/AirlinePlanner.Tests/bin/Debug/netcoreapp1.1/AirlinePlanner.Tests.deps.json
+/Users/Guest/Downloads/csharp-project-builder-master/AirlinePlanner.Solution/AirlinePlanner.Tests/bin/Debug/netcoreapp1.1/AirlinePlanner.Tests.runtimeconfig.json
+/Users/Guest/Downloads/csharp-project-builder-master/AirlinePlanner.Solution/AirlinePlanner.Tests/bin/Debug/netcoreapp1.1/AirlinePlanner.Tests.runtimeconfig.dev.json
+/Users/Guest/Downloads/csharp-project-builder-master/AirlinePlanner.Solution/AirlinePlanner.Tests/bin/Debug/netcoreapp1.1/AirlinePlanner.Tests.dll
+/Users/Guest/Downloads/csharp-project-builder-master/AirlinePlanner.Solution/AirlinePlanner.Tests/bin/Debug/netcoreapp1.1/AirlinePlanner.Tests.pdb
+/Users/Guest/Downloads/csharp-project-builder-master/AirlinePlanner.Solution/AirlinePlanner.Tests/bin/Debug/netcoreapp1.1/AirlinePlanner.dll
+/Users/Guest/Downloads/csharp-project-builder-master/AirlinePlanner.Solution/AirlinePlanner.Tests/bin/Debug/netcoreapp1.1/AirlinePlanner.pdb
+/Users/Guest/Downloads/csharp-project-builder-master/AirlinePlanner.Solution/AirlinePlanner.Tests/obj/Debug/netcoreapp1.1/AirlinePlanner.Tests.AssemblyInfo.cs
+/Users/Guest/Downloads/csharp-project-builder-master/AirlinePlanner.Solution/AirlinePlanner.Tests/obj/Debug/netcoreapp1.1/AirlinePlanner.Tests.dll
+/Users/Guest/Downloads/csharp-project-builder-master/AirlinePlanner.Solution/AirlinePlanner.Tests/obj/Debug/netcoreapp1.1/AirlinePlanner.Tests.pdb
